@@ -9,7 +9,7 @@ a)
 ```sql
 SELECT COUNT(*) FROM Orders;
 ```
-196
+**196**
 
 b)
 ```sql
@@ -23,7 +23,7 @@ SELECT       EmployeeID
 ```sql
 SELECT LastName FROM Employees where EmployeeID=4;
 ```
-Peacock
+**Peacock**
 
 c)
 ```sql
@@ -45,4 +45,4 @@ LIMIT 1
 ```sql
 SELECT ProductName FROM Products WHERE ProductID=31
 ```
-Gorgonzola Telino
+**Gorgonzola Telino**
